@@ -33,17 +33,10 @@ This repository contains the code and resources for creating a logistics analysi
 
 ---
 
-## Technologies Used  
+## Tools Used  
 - **Power BI**: For dashboard creation and visualization.  
-- **Data Analysis Tools**: To ensure accurate and actionable insights.  
+- **Excel**: To ensure accurate and clean data.  
 
 ---
 
-## Repository Contents  
-- **Dashboard Screenshot**: Visual overview of the final output.  
-- **Dataset**: (if permissible to share) anonymized or sample data.  
-- **Insights and Recommendations Document**: PDF or markdown file summarizing findings.  
-- **Power BI File**: `.pbix` for anyone interested in exploring the report.  
-
----
 
