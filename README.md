@@ -2,7 +2,7 @@
 📊 **March Analysis for Operational Optimization**  
 
 ---
-
+![Dashboard](https://github.com/Ola-koyiT/Logistics_Analysis/blob/main/Final%20dashboard%20Picture%20.png)
 ## Overview  
 This repository contains the code and resources for creating a logistics analysis dashboard designed for tracking and optimizing operational performance. The focus is on delivering actionable insights to improve efficiency, profitability, and resource utilization.
 
